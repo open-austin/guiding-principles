@@ -2,7 +2,7 @@
 Draft guiding principles for the city of Austin and our community
 
 ### What problem are we trying to solve?
-We want to establish simple, memorable, and shareable principles to help guide our work.
+We want to establish simple, memorable, and shareable principles to help guide our work, and provide an opportunity to include the culture of Austin in how we share them.
 
 ### Who will benefit (directly and indirectly) from this project?
 - citizens
