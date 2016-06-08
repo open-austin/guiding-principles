@@ -2,20 +2,20 @@
 Draft guiding principles for the city of Austin and our community
 
 ### What problem are we trying to solve?
-
+We want to establish simple, memorable, and shareable principles to help guide our work.
 
 ### Who will benefit (directly and indirectly) from this project?
 - citizens
 - city employees
+- current civic hackers
+- new civic hackers
 
 
-
-
-### Examples of other cities guiding-principles 
-These serve to be just that, examples. It's important that Austin creates principles that reflect our unique culture, interest, and attitude. 
--  Example 1
--  Example 2
--  Example 3
+## Examples of other guiding principles 
+-  [UK Government Digital Service](https://www.gov.uk/design-principles)
+-  [CFPB Design Principles](https://cfpb.github.io/design-manual/guides/design-principles.html)
+-  [BBC GEL Design Philosophy](http://www.bbc.co.uk/gel/philosophy/design-philosophy)
+-  [Code for America Principles for a 21st Century Government](https://www.codeforamerica.org/resources/)
 
 
 
