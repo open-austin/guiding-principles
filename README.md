@@ -9,7 +9,6 @@ Draft guiding principles for the city of Austin and our community
 - city employees
 
 
-Answer here.
 
 
 ## Examples of other cities guiding-principles 
