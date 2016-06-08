@@ -18,5 +18,5 @@ Draft guiding principles for the city of Austin and our community
 
 
 
-## Contribute is needed!
-This is open for contribution from anyone interested in helping form some guiding prinples for the city and community. The issues in the repo are meant to be threads of discussion to help solidify language and princples around the purposed guidelines. 
+## Contribution is needed!
+This is open for contribution from anyone interested in helping form guiding prinples for the city and community. The issues in the repo are meant to be threads of discussion to help solidify language and princples around the purposed guidelines. 
